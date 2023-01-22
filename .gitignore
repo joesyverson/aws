@@ -1,0 +1,12 @@
+# secrets
+conf/data.yml
+conf/data.json
+.ssh/*
+.env
+
+# logs
+logs/
+
+# python env
+env/
+venv/
